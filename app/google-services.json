@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90144604779",
+    "firebase_url": "https://nongfirebase.firebaseio.com",
+    "project_id": "nongfirebase",
+    "storage_bucket": "nongfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90144604779:android:a0c89c46b1ea194f",
+        "android_client_info": {
+          "package_name": "masterung.androidthai.in.th.nongfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90144604779-csobgb81qms6d4e15m3v57466jg627ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "masterung.androidthai.in.th.nongfirebase",
+            "certificate_hash": "99f1de59cbbb9f0ab27aeb63c596235bc843b92a"
+          }
+        },
+        {
+          "client_id": "90144604779-nvuicqjsvkcmdc3e08h177ke4tpt1hm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJAq-xDk9QavNAAl2ihE6cvUAjgh9vbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90144604779-nvuicqjsvkcmdc3e08h177ke4tpt1hm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
